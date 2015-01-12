@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "~1.2",
+        "kohkimakimoto/workerphp": "0.*",
+        "robmorgan/phinx": "*",
+        "twig/twig": "~1.0"
+    }
+}
